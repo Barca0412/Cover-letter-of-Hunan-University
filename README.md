@@ -175,9 +175,9 @@ xelatex main.tex  # 建议运行两次以确保交叉引用正确
 
 ## 贡献与反馈
 
-- 原作者：Brian Wood (brian.wood@oregonstate.edu)
-- HNU版本修改：Guohao Qi (qgh124430@hnu.edu.cn)
+- HNU版本修改：Guohao Qi (qgh124430@hnu.edu.cn， guohaoqi@u.nus.edu)
 - 微信：qgh985695077
+- Website: www.guohaoqi.cn
 
 如有问题或建议，欢迎通过邮件联系或在GitHub提交Issue。
 
